@@ -225,6 +225,7 @@ int main(int argc, char** argv)
 #include <stdio.h>
 #include <open62541/client.h>
 #include <open62541/client_highlevel.h>
+#include <open62541/client_config_default.h>
 
 int main(int argc, char *argv[])
 {
